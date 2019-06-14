@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "::ffff:192.168.88.1",
+      "salt": "3e4054a5f7",
+      "password": "c3801408ba6a452ce1d1570ef1d0598f2dafa64293440a191416fd0ccd67ed7a"
+    },
+    {
+      "username": "::ffff:192.168.88.2",
+      "salt": "58e18ef9c1",
+      "password": "afd728edfb68806fdc1f14b0120360355abea99185d64d5e66ffda17b4bdd421"
+    }
+  ]
+}
